@@ -26,3 +26,5 @@ Une fois cette alimentation en batch terminée et l’analyse des données réal
 3.	Exposition et Visualisation des données
 -	Requêtage de données
 -	Sélection d’outils de Data Visualisation
+
+Le projet et les résultats sont présentés dans le powerpoint.
